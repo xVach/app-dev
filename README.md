@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# H1 FAVORITE SERIES/MOVIE
+# FAVORITE SERIES/MOVIE
 
 1. Harry Potter
 2. Sing
